@@ -26,3 +26,8 @@ Alinhamento com a Nova Web Studio:
 Estabelecer um escopo fechado previne alterações e novas demandas ao longo do desenvolvimento.
 Isso possibilita uma melhor organização do tempo, dos recursos e das atividades do grupo.
 
+
+Requisitos do Sistema
+Git instalado
+Visual Studio Code instalado
+Sistema operacional compatível com Git
