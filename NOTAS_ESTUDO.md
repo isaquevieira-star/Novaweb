@@ -78,4 +78,44 @@ Assegurar um feedback claro para os leitores de tela.
 Habilitar a navegação pelos campos com a tecla Tab.
 
 
+Pesquisa Aula 09
+
+Projeto Nova-Web - UI/UX Design
+Aula 09: UX de Tabelas de Dados e Telas de Perfil
+1. Pesquisa Teórica - UX para Tabelas Corporativas
+Alinhamento de Dados
+Textos ficam alinhados à esquerda para facilitar a leitura.
+Números e valores ficam alinhados à direita para facilitar a comparação.
+Status e botões podem ficar centralizados.
+Filtros e Busca
+A barra de pesquisa deve ficar em um lugar fácil de encontrar, normalmente acima da tabela.
+Os filtros ajudam a encontrar informações específicas.
+A ordenação facilita a comparação dos dados.
+Organização Visual
+O cabeçalho fixo ajuda a identificar as colunas enquanto a pessoa rola a tabela.
+Alternar a aparência das linhas facilita acompanhar os dados.
+Espaçamentos e bordas leves deixam a tabela mais organizada.
+Esses recursos ajudam o usuário a encontrar e entender as informações com mais facilidade.
+Acessibilidade
+É importante usar corretamente elementos como <th> e <td> nas tabelas.
+Isso ajuda pessoas que utilizam leitores de tela a entender melhor os dados.
+2. Protótipo no Figma
+Link do Projeto: [Cole o link do seu projeto aqui]
+Perfil de Usuário:
+Avatar;
+Dados pessoais;
+Edição das informações;
+Nível de permissão;
+Botão para salvar.
+Área de Consulta:
+Lista de usuários;
+Barra de pesquisa;
+Filtros;
+Ordenação;
+Paginação;
+Botões de Editar e Excluir.
+Conclusão
+Uma boa tabela precisa ser simples, organizada e fácil de usar, ajudando o usuário a encontrar e modificar as informações rapidamente
+
+
 
